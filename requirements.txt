@@ -5,4 +5,5 @@ python-dotenv
 SpeechRecognition
 psycopg2-binary
 plotly
+pipwin
 pyaudio
